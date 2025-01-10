@@ -6,7 +6,7 @@
 - [Overriding_Overloading](src/main/java/com/javajedi/J05_Overriding_Overloading/overriding_overloading.md)
 - [super_keyword](src/main/java/com/javajedi/J06_Super_keyword/superkeyword.md)
 - [Interface](src/main/java/com/javajedi/J07_Interface/interface.md)
-- [Polymorphism](src/main/java/com/javajedi/J08_Polimorphism/poliorphism.md)
+- [Polymorphism](src/main/java/com/javajedi/J08_Polimorphism/polimorphism.md)
 - [Ornek_notes.md](src/main/java/com/javajedi/J09_Ornek01/notes.md)
 - [Enum](src/main/java/com/javajedi/J10_Enum/enum.md)
 - [final_keyword](src/main/java/com/javajedi/J11_final_keyword/finalkeyword.md)
